@@ -1,0 +1,16 @@
+{
+    "name": "adasilva/slim-restful",
+    "description": "Library to simplify the use of Slim framework for REST APIs.",
+    "require": {
+        "php" :"^7.4",
+        "slim/slim": "^4.5",
+        "slim/psr7": "^1.0",
+        "php-di/php-di": "^6.1",
+        "zeptech/annotations": "^1.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "SlimRestful\\": "src"
+        }
+    }
+}
