@@ -1,5 +1,5 @@
 {
-    "name": "adasilva/slim-restful",
+    "name": "dancal/slim-restful",
     "description": "Library to simplify the use of Slim framework for REST APIs.",
     "type": "library",
     "license": "MIT",
